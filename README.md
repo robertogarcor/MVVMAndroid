@@ -1,6 +1,6 @@
 # MVVMAndroid
 Sample MVVM in Kotlin for Android
 
---Image Capture 
+### ScreenShot
 
-https://github.com/robertogarcor/MVVMAndroid/blob/main/images/Captura00.PNG
+<img src="https://github.com/robertogarcor/MVVMAndroid/blob/main/images/Captura00.PNG">
